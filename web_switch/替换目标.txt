@@ -1,0 +1,14 @@
+<param name="MediaFile" value="Data\AppAttach\WeiXin\tencent\sdcard\Android\data\com.tencent.mm\MicroMsg\b7dc926da9a220ddec4446193c0990e8\voice2\01\ed\msg_241535093022bfc9bd6dc2f104.amr" />
+<a href="Data\AppAttach\WeiXin\tencent\sdcard\Android\data\com.tencent.mm\MicroMsg\b7dc926da9a220ddec4446193c0990e8\voice2\01\ed\msg_241535093022bfc9bd6dc2f104.wav">点击播放音频</a>
+<param name="MediaFile" value="Data\AppAttach\WeiXin\tencent\sdcard\Android\data\com.tencent.mm\MicroMsg\b7dc926da9a220ddec4446193c0990e8\voice2\66\cf\msg_3515350930229c835c0073a104.amr" />
+<a href="Data\AppAttach\WeiXin\tencent\sdcard\Android\data\com.tencent.mm\MicroMsg\b7dc926da9a220ddec4446193c0990e8\voice2\01\ed\msg_3515350930229c835c0073a104.wav">点击播放音频</a>
+<param name="MediaFile" value="Data\AppAttach\WeiXin\tencent\sdcard\Android\data\com.tencent.mm\MicroMsg\b7dc926da9a220ddec4446193c0990e8\voice2\5f\20\msg_201536093022bfc9bd6b491106.amr" />
+<a href="Data\AppAttach\WeiXin\tencent\sdcard\Android\data\com.tencent.mm\MicroMsg\b7dc926da9a220ddec4446193c0990e8\voice2\01\ed\msg_201536093022bfc9bd6b491106.wav">点击播放音频</a>
+<param name="MediaFile" value="Data\AppAttach\WeiXin\tencent\sdcard\Android\data\com.tencent.mm\MicroMsg\b7dc926da9a220ddec4446193c0990e8\voice2\f0\39\msg_0915370930229c835c0762b100.amr" />
+<a href="Data\AppAttach\WeiXin\tencent\sdcard\Android\data\com.tencent.mm\MicroMsg\b7dc926da9a220ddec4446193c0990e8\voice2\01\ed\msg_0915370930229c835c0762b100.wav">点击播放音频</a>
+<param name="MediaFile" value="Data\AppAttach\WeiXin\tencent\sdcard\Android\data\com.tencent.mm\MicroMsg\b7dc926da9a220ddec4446193c0990e8\voice2\e0\db\msg_511537093022bfc9bd6192d102.amr" />
+<a href="Data\AppAttach\WeiXin\tencent\sdcard\Android\data\com.tencent.mm\MicroMsg\b7dc926da9a220ddec4446193c0990e8\voice2\01\ed\msg_511537093022bfc9bd6192d102.wav">点击播放音频</a>
+<param name="MediaFile" value="Data\AppAttach\WeiXin\tencent\sdcard\Android\data\com.tencent.mm\MicroMsg\b7dc926da9a220ddec4446193c0990e8\voice2\cf\00\msg_1415380930229c835c0719d104.amr" />
+<a href="Data\AppAttach\WeiXin\tencent\sdcard\Android\data\com.tencent.mm\MicroMsg\b7dc926da9a220ddec4446193c0990e8\voice2\01\ed\msg_1415380930229c835c0719d104.wav">点击播放音频</a>
+<param name="MediaFile" value="Data\AppAttach\WeiXin\tencent\sdcard\Android\data\com.tencent.mm\MicroMsg\b7dc926da9a220ddec4446193c0990e8\voice2\0c\71\msg_011538093022bfc9bd63e8b106.amr" />
+<a href="Data\AppAttach\WeiXin\tencent\sdcard\Android\data\com.tencent.mm\MicroMsg\b7dc926da9a220ddec4446193c0990e8\voice2\01\ed\msg_011538093022bfc9bd63e8b106.wav">点击播放音频</a>
